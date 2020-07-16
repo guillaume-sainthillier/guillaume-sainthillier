@@ -2,7 +2,7 @@
 
 PHP Web developper from Toulouse, France.
 
-Active projects :
+Active & maintained OSS projects :
 * [By Night](https://by-night.fr)
 * [Guillaume Sainthillier](https://sainthillier.fr)
 * [Silarhi](https://silarhi.fr)
