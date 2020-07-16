@@ -8,3 +8,4 @@ Active & maintained OSS projects :
 * [Silarhi](https://silarhi.fr)
 * [Silarhi's Blog](https://blog.silarhi.fr)
 * [Les pépites du terroir](https://pepitesduterroir.fr)
+* [EBICS-CLIENT-PHP](https://github.com/andrew-svirin/ebics-client-php)
