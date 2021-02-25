@@ -7,7 +7,7 @@
 
 My name is Guillaume Sainthillier. I'm a PHP Web developer at [@silarhi](https://github.com/silarhi) from Toulouse, France.
 
-## ⚡ Active & maintained OSS projects
+## ⚡ Active & maintained OSS projects / websites
 * [By Night](https://github.com/guillaume-sainthillier/by-night.fr)
 * [docker-php](https://github.com/silarhi/docker-php)
 * [symfony-docker-ci](https://github.com/silarhi/symfony-docker-ci)
@@ -23,3 +23,7 @@ My name is Guillaume Sainthillier. I'm a PHP Web developer at [@silarhi](https:/
 - [Le déploiement automatique en production pour Symfony 5 avec Docker et CircleCI](https://blog.silarhi.fr/deploiement-continu-symfony-docker-circleci/)
 - [Adieu jQuery ? Bootstrap 5 annonce la tendance, retour d'expérience](https://blog.silarhi.fr/adieu-jquery-bootstrap-5-tendance/)
 <!-- BLOG-POST-LIST:END -->
+
+## 📊 Some Github's stats
+[![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillaume-sainthillier&show_icons=true)](https://github.com/guillaume-sainthillier)
+[![Guillaume's Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaume-sainthillier&layout=compact&hide=html)](https://github.com/guillaume-sainthillier)
