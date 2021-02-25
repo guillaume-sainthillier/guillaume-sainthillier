@@ -1,17 +1,21 @@
 #  Hi there <a href="https://sainthillier.fr"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 [![Linkedin: developpeur-web-toulouse](https://img.shields.io/badge/-Guillaume%20Sainthillier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developpeur-web-toulouse/)](https://www.linkedin.com/in/developpeur-web-toulouse/)
+[![StackOverflow: guillaume-sainthillier](https://img.shields.io/badge/-guillaume--sainthillier-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/7652866/guillaume-sainthillier?tab=profile)](https://stackoverflow.com/users/7652866/guillaume-sainthillier?tab=profile)
+[![Ghost: silarhi](https://img.shields.io/badge/-Blog-738A94?style=flat-square&logo=Ghost&logoColor=white&link=https://blog.silarhi.fr)](https://blog.silarhi.fr)
+[![Github: silarhi](https://img.shields.io/badge/-SILARHI-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/silarhi)](https://github.com/silarhi)
+[![Mail: hello@silarhi.fr](https://img.shields.io/badge/-hello@silarhi.fr-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@silarhi.fr)](mailto:hello@silarhi.fr)
 
-My name is Guillaume Sainthillier. I'm a PHP Web developer at @silarhi from Toulouse, France.
+My name is Guillaume Sainthillier. I'm a PHP Web developer at [@silarhi](https://github.com/silarhi) from Toulouse, France.
 
 ## ⚡ Active & maintained OSS projects
-* [By Night](https://by-night.fr)
-* [Guillaume Sainthillier](https://sainthillier.fr)
-* [Silarhi](https://silarhi.fr)
-* [Silarhi's Blog](https://blog.silarhi.fr)
-* [Les pépites du terroir](https://pepitesduterroir.fr)
-* [EBICS-CLIENT-PHP](https://github.com/andrew-svirin/ebics-client-php)
+* [By Night](https://github.com/guillaume-sainthillier/by-night.fr)
+* [docker-php](https://github.com/silarhi/docker-php)
+* [symfony-docker-ci](https://github.com/silarhi/symfony-docker-ci)
+* [ebics-client-php](https://github.com/andrew-svirin/ebics-client-php)
+* [Guillaume Sainthillier](https://github.com/guillaume-sainthillier/sainthillier.fr)
 
-## 📕 Latest Blog Posts.
+
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [L’authentification à double facteur avec Symfony (2FA)](https://blog.silarhi.fr/symfony-double-authentification-2fa/)
 - [Gérer ses miniatures avec Symfony et Glide](https://blog.silarhi.fr/symfony-miniature-image-glide-php/)
