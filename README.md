@@ -12,7 +12,7 @@ My name is Guillaume Sainthillier. I'm a PHP Web developer at [@silarhi](https:/
 * [docker-php](https://github.com/silarhi/docker-php)
 * [symfony-docker-ci](https://github.com/silarhi/symfony-docker-ci)
 * [ebics-client-php](https://github.com/andrew-svirin/ebics-client-php)
-* [Guillaume Sainthillier](https://github.com/guillaume-sainthillier/sainthillier.fr)
+* [Personal Website](https://github.com/guillaume-sainthillier/sainthillier.fr)
 
 
 ## 📕 Latest Blog Posts
