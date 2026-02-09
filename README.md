@@ -25,5 +25,5 @@ My name is Guillaume Sainthillier. I'm a PHP Web developer at [@silarhi](https:/
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Some Github's stats
-[![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillaume-sainthillier&show_icons=true)](https://github.com/guillaume-sainthillier)
-[![Guillaume's Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaume-sainthillier&layout=compact&hide=html)](https://github.com/guillaume-sainthillier)
+[![Guillaume's GitHub stats](./profile/stats.svg)](https://github.com/guillaume-sainthillier)
+[![Guillaume's Top lang](./profile/top-langs.svg)](https://github.com/guillaume-sainthillier)
