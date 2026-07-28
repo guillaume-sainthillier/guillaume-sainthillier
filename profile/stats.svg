@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Guillaume Sainthillier's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 1099, Total PRs: 522, Total Issues: 56, Contributed to (last year): 39</desc>
+        <title id="titleId">Guillaume Sainthillier&#39;s GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 1099, Total PRs: 522, Total Issues: 57, Contributed to (last year): 39</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.83597260836737;
+        stroke-dashoffset: 78.71473700275173;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Guillaume Sainthillier's GitHub Stats</text>
+      >Guillaume Sainthillier&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >56</text>
+      >57</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
