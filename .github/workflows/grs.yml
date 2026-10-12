@@ -5,12 +5,22 @@ on:
         - cron: '42 3 * * *'
     workflow_dispatch:
 
+permissions:
+    contents: read
+
 jobs:
     build:
         name: Update README cards
         runs-on: ubuntu-latest
+        timeout-minutes: 15
         permissions:
-            contents: write
+            contents: write # commits the refreshed profile/*.svg
+        strategy:
+            max-parallel: 1 # both variants push to the same branch
+            matrix:
+                variant:
+                    - { suffix: '', theme: 'default' }
+                    - { suffix: '-dark', theme: 'github_dark' }
         steps:
             - uses: actions/checkout@v7
 
@@ -18,16 +28,16 @@ jobs:
               uses: readme-tools/github-readme-stats-action@v2
               with:
                   card: stats
-                  options: username=${{ github.repository_owner }}&show_icons=true
-                  path: profile/stats.svg
+                  options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=${{ matrix.variant.theme }}
+                  path: profile/stats${{ matrix.variant.suffix }}.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
             - name: Generate top languages card
               uses: readme-tools/github-readme-stats-action@v2
               with:
                   card: top-langs
-                  options: username=${{ github.repository_owner }}&layout=compact&hide=html
-                  path: profile/top-langs.svg
+                  options: username=${{ github.repository_owner }}&layout=compact&hide=html&hide_border=true&theme=${{ matrix.variant.theme }}
+                  path: profile/top-langs${{ matrix.variant.suffix }}.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
             - name: Commit cards
@@ -36,4 +46,5 @@ jobs:
                   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
                   git add profile/*.svg
                   git commit -m "Update README cards" || exit 0
+                  git pull --rebase -q
                   git push

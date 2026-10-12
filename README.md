@@ -1,19 +1,42 @@
-#  Hi there <a href="https://sainthillier.fr"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-[![Linkedin: developpeur-web-toulouse](https://img.shields.io/badge/-Guillaume%20Sainthillier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developpeur-web-toulouse/)](https://www.linkedin.com/in/developpeur-web-toulouse/)
-[![StackOverflow: guillaume-sainthillier](https://img.shields.io/badge/-guillaume--sainthillier-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/7652866/guillaume-sainthillier?tab=profile)](https://stackoverflow.com/users/7652866/guillaume-sainthillier?tab=profile)
-[![Ghost: silarhi](https://img.shields.io/badge/-Blog-738A94?style=flat-square&logo=Ghost&logoColor=white&link=https://blog.silarhi.fr)](https://blog.silarhi.fr)
-[![Github: silarhi](https://img.shields.io/badge/-SILARHI-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/silarhi)](https://github.com/silarhi)
-[![Mail: hello@silarhi.fr](https://img.shields.io/badge/-hello@silarhi.fr-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@silarhi.fr)](mailto:hello@silarhi.fr)
+# Hi there 👋
 
-My name is Guillaume Sainthillier. I'm a PHP Web developer at [@silarhi](https://github.com/silarhi) from Toulouse, France.
+[![Website](https://img.shields.io/badge/sainthillier.fr-0d6efd?style=flat-square&logo=googlechrome&logoColor=white)](https://sainthillier.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developpeur-web-toulouse/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7652866/guillaume-sainthillier)
+[![Blog](https://img.shields.io/badge/Blog-738A94?style=flat-square&logo=ghost&logoColor=white)](https://blog.silarhi.fr)
+[![SILARHI](https://img.shields.io/badge/SILARHI-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/silarhi)
+[![Contact](https://img.shields.io/badge/hello@silarhi.fr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@silarhi.fr)
+[![Followers](https://img.shields.io/github/followers/guillaume-sainthillier?style=flat-square&logo=github&label=Followers&color=24292f)](https://github.com/guillaume-sainthillier)
 
-## ⚡ Active & maintained OSS projects / websites
-* [By Night](https://github.com/guillaume-sainthillier/by-night.fr)
-* [docker-php](https://github.com/silarhi/docker-php)
-* [symfony-docker-ci](https://github.com/silarhi/symfony-docker-ci)
-* [ebics-client-php](https://github.com/andrew-svirin/ebics-client-php)
-* [Personal Website](https://github.com/guillaume-sainthillier/sainthillier.fr)
+My name is Guillaume Sainthillier. I'm a freelance PHP Web developer at [@silarhi](https://github.com/silarhi) from Toulouse, France, addicted to the Symfony framework since 2013.
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=flat-square&logo=doctrine&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FrankenPHP](https://img.shields.io/badge/FrankenPHP-ff4f00?style=flat-square&logo=caddy&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+## 🌍 Websites
+
+| Project | Description | |
+|---|---|---|
+| [By Night](https://github.com/guillaume-sainthillier/by-night.fr) | Event management platform for France | [![Website](https://img.shields.io/website?url=https%3A%2F%2Fby-night.fr&style=flat-square&label=by-night.fr)](https://by-night.fr) ![Stars](https://img.shields.io/github/stars/guillaume-sainthillier/by-night.fr?style=flat-square&label=★) |
+| [sainthillier.fr](https://github.com/guillaume-sainthillier/sainthillier.fr) | My freelance website (Hugo, Vite, Tailwind CSS v4) | [![Website](https://img.shields.io/website?url=https%3A%2F%2Fsainthillier.fr&style=flat-square&label=sainthillier.fr)](https://sainthillier.fr) |
+
+## ⚡ Open source with [SILARHI](https://github.com/silarhi)
+
+| Project | Description | Downloads |
+|---|---|---|
+| [cfonb-parser](https://github.com/silarhi/cfonb-parser) | Zero-dependency parser for CFONB 120 / 240 bank statements | [![Downloads](https://img.shields.io/packagist/dt/silarhi/cfonb-parser?style=flat-square&label=)](https://packagist.org/packages/silarhi/cfonb-parser) |
+| [cursor-pagination](https://github.com/silarhi/cursor-pagination) | Doctrine ORM cursor pagination for fast batch operations | [![Downloads](https://img.shields.io/packagist/dt/silarhi/cursor-pagination?style=flat-square&label=)](https://packagist.org/packages/silarhi/cursor-pagination) |
+| [picasso-bundle](https://github.com/silarhi/picasso-bundle) | Responsive images for Symfony: AVIF/WebP srcset, blur placeholders | [![Downloads](https://img.shields.io/packagist/dt/silarhi/picasso-bundle?style=flat-square&label=)](https://packagist.org/packages/silarhi/picasso-bundle) |
+| [llms-txt-bundle](https://github.com/silarhi/llms-txt-bundle) | Build, dump and serve an `llms.txt` file from Symfony | [![Downloads](https://img.shields.io/packagist/dt/silarhi/llms-txt-bundle?style=flat-square&label=)](https://packagist.org/packages/silarhi/llms-txt-bundle) |
+| [docker-php](https://github.com/silarhi/docker-php) | PHP 8.1–8.5 Docker images (Apache, FrankenPHP, CI/Alpine) | [![Pulls](https://img.shields.io/docker/pulls/silarhi/php-apache?style=flat-square&label=)](https://hub.docker.com/r/silarhi/php-apache) |
+
+More on the [SILARHI profile](https://github.com/silarhi). I also contribute to [ebics-client-php](https://github.com/andrew-svirin/ebics-client-php).
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,6 +47,15 @@ My name is Guillaume Sainthillier. I'm a PHP Web developer at [@silarhi](https:/
 - [Le déploiement continu en production pour Symfony 8 avec Docker et CircleCI](https://blog.silarhi.fr/deploiement-continu-symfony-docker-circleci/)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 Some Github's stats
-[![Guillaume's GitHub stats](./profile/stats.svg)](https://github.com/guillaume-sainthillier)
-[![Guillaume's Top lang](./profile/top-langs.svg)](https://github.com/guillaume-sainthillier)
+## 📊 GitHub stats
+
+<a href="https://github.com/guillaume-sainthillier">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+        <img src="./profile/stats.svg" alt="Guillaume's GitHub stats" height="170">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+        <img src="./profile/top-langs.svg" alt="Guillaume's top languages" height="170">
+    </picture>
+</a>
