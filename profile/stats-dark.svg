@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Guillaume Sainthillier&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 14, Total Commits  (last year) : 3221, Total PRs: 1339, Total Issues: 80, Contributed to (last year): 63</desc>
+        <desc id="descId">Total Stars Earned: 14, Total Commits  (last year) : 3247, Total PRs: 1349, Total Issues: 80, Contributed to (last year): 63</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 79.24594688338475;
+        stroke-dashoffset: 79.24556140773814;
       }
     }
   
